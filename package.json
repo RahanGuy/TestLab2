@@ -5,5 +5,5 @@
     "http-server": "*",
     "node-monkey": "*"
   },
-  "main": "myFirstHTTPServer.js"
+  "main": "LabServer.js"
 }
