@@ -29,6 +29,7 @@ var consolere = require('console-remote-client').connect('console.re','80','raha
 function handleRequest(request, response){
     response.end('Yes! It Works!! Path Hit: ' + server_ip_address + ":" + server_port + "/" + request.url);
     console.re.log("HTTP Server listening on: " + server_ip_address + ":" + server_port);
+    console.re.log("Time:" + Date());
     
 }
 //What is a request?
