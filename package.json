@@ -1,9 +1,9 @@
 {
-  "name" : "TestLab2",
+  "name" : "myFirstHTTPServer",
   "version" : "0.0.1",
   "dependencies": {
     "http-server": "*",
-    "node-monkey": "*"
+    "console-remote-client": "*"
   },
-  "main": "LabServer.js"
+  "main": "labserver.js"
 }
