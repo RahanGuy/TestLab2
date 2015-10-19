@@ -5,5 +5,5 @@
     "http-server": "*",
     "console-remote-client": "*"
   },
-  "main": "labserver.js"
+  "main": "LabServer.js"
 }
